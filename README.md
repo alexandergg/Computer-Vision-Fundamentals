@@ -3,7 +3,7 @@ Computer Vision
 
 The intention of this "Computer Vision" project is to explain in an easy and structured way the common techniques and libraries used in the field of artificial vision. It was thought to people had a series of introductory notebooks to this field of vision. It provides definitions of basic techniques, image descriptors, feature extraction and Content base image retrieval. This repository will be extended with an explanation of the deep learning field.
 
-Entorno Virtual
+Virtual Environment
 ===============
 
 To create the virtual environment, we have to have anaconda previously installed on our computer.
