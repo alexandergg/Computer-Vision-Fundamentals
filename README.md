@@ -8,7 +8,7 @@ Virtual Environment
 
 To create the virtual environment, we have to have anaconda previously installed on our computer.
 
-1. [Descargar anaconda](https://www.anaconda.com/download/)
+1. [Download anaconda](https://www.anaconda.com/download/)
 
 Create the virtual environment using the * environment.yml * file (contains all the dependencies of conda and pip packages)
 `conda env create --file environment.yml`
